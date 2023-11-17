@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>REPL adventures</title>
+  <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
+  <link href="https://github.com/borkdude/quickblog"/>
+  <updated>2023-10-25T15:13:54+00:00</updated>
+  <id>https://github.com/borkdude/quickblog</id>
+  <author>
+    <name>Quick Blogger</name>
+  </author>
+  <entry>
+    <id>https://github.com/borkdude/quickblog/secure_your_bitcoin.html</id>
+    <link href="https://github.com/borkdude/quickblog/secure_your_bitcoin.html"/>
+    <title>How to Secure Your Bitcoin</title>
+    <updated>2023-10-25T23:59:59+00:00</updated>
+    <content type="html"><![CDATA[<p>You want it secure</p><h2>Subheader</h2><p>Write a blog post here!</p><h2>Ledger</h2><h2>Ledger + password</h2><h2>Other hardware wallets</h2><h2>Monero trick</h2><h2>Mixers, coin join</h2><h2>Bit by bit</h2><h2>Never put your phrases in a computer</h2>]]></content>
+  </entry>
+</feed>
